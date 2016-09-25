@@ -7,6 +7,7 @@ public class GitStart {
 		System.out.println("Another modification");
 		System.out.println("Yet another modification!");
 		System.out.println("Using feature branch");
+		return;
 	}
 
 }
